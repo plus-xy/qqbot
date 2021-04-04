@@ -481,7 +481,7 @@ else
 		guoqi=n
 	fi
 fi
-
+}
 #登录检测循环
 log_in_loop(){
 
